@@ -8,7 +8,7 @@ Criação de um Projeto inicial de PBI para aprendizagem básica de suas funcion
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white
 
 > Criação de um relatorio de venda, quantidade de produtos vendidos, rentabilidade, localização das lojas no mapa, quantidade de devolução de produtos, melhor venda de produto, venda mensal de produtos.
 
