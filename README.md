@@ -1,3 +1,4 @@
+
 # PowerBI
 Criação de um Projeto inicial de PBI para aprendizagem básica de suas funcionalidades.
 
@@ -11,6 +12,8 @@ Criação de um Projeto inicial de PBI para aprendizagem básica de suas funcion
 ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 
 > Criação de um relatorio de venda, quantidade de produtos vendidos, rentabilidade, localização das lojas no mapa, quantidade de devolução de produtos, melhor venda de produto, venda mensal de produtos.
+
+![1624402060111](https://user-images.githubusercontent.com/82541610/123012533-c6e02480-d398-11eb-9ae1-80fdb210d734.jpg)
 
 ### Ajustes e melhorias
 
