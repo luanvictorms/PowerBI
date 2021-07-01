@@ -1,5 +1,6 @@
 
 
+
 # PowerBI
 Criação de um Projeto inicial de PBI para aprendizagem básica de suas funcionalidades.
 
@@ -17,6 +18,9 @@ Criação de um Projeto inicial de PBI para aprendizagem básica de suas funcion
 ![1624402060111](https://user-images.githubusercontent.com/82541610/123012533-c6e02480-d398-11eb-9ae1-80fdb210d734.jpg)
 
 ![aaa](https://user-images.githubusercontent.com/82541610/124191154-c252f480-da99-11eb-9f6f-46863f44e06d.png)
+![aaa2](https://user-images.githubusercontent.com/82541610/124197356-ba4c8200-daa4-11eb-8498-fbfde447d649.png)
+
+https://app.powerbi.com/groups/me/reports/1057a203-a5fc-47ce-ab1f-128e3ab2a204?ctid=17a75975-b753-48cf-a95e-a5fc4d4e864f&pbi_source=linkShare
 
 ### Ajustes e melhorias
 
